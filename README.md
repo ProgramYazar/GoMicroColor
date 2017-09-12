@@ -3,7 +3,7 @@ Golang bash color output writer
 
 
 # Usage
-This library can be use as standart golang io.Writer. Its a simple solution for simple problems on bash shell. Tested on MacOsX but probably works on Linux.
+This library can be use as standart golang io.Writer. Its a simple solution for simple problems on bash environment. Tested on MacOsX but probably works on Linux.
 
 # Example
 
